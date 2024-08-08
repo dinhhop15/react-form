@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "year": 1960,
+      "sale": false,
+      "categoryId": "a1b2c3",
+      "price": 10.99,
+      "image": "https://th.bing.com/th/id/OIP.LObRZtd4EwxJDwWU66VE6AHaEK?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": "1",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "year": 1960,
+      "sale": false,
+      "categoryId": "a1b2c3",
+      "price": 10.99,
+      "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2022/4/6/1031318/Anh-1-1.jpg"
+    },
+    {
+      "id": "1",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "year": 1960,
+      "sale": false,
+      "categoryId": "a1b2c3",
+      "price": 10.99,
+      "image": "https://smartviets.com/template/plugins/timthumb.php?src=/upload/iPHONE15/iPHONE15PR-PRM/15PRM-natural_titanium.jpg&w=770&h=770&q=80"
+    },
+    {
+      "id": "1",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "year": 1960,
+      "sale": false,
+      "categoryId": "a1b2c3",
+      "price": 10.99,
+      "image": "https://th.bing.com/th/id/R.6ff6136f82e4b7c604300a2635e49d4c?rik=q1xlMLHrONNlLQ&pid=ImgRaw&r=0"
+    },
+    {
+      "id": "1",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "year": 1960,
+      "sale": false,
+      "categoryId": "a1b2c3",
+      "price": 10.99,
+      "image": "https://smartviets.com/template/plugins/timthumb.php?src=/upload/iPHONE15/iPHONE15PR-PRM/15PRM-natural_titanium.jpg&w=770&h=770&q=80"
+    },
+    {
+      "id": "1",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "year": 1960,
+      "sale": false,
+      "categoryId": "a1b2c3",
+      "price": 10.99,
+      "image": "https://techblog.gr/wp-content/uploads/2021/07/conceptsiphone-13-pro.jpg"
+    }
+  ],
+  "users": [
+    {
+      "email": "hopdinh21@gmail.com",
+      "password": "$2a$10$lSEFtpNBq7Nd6EXfmysvbuK0MTY2O7JnpOifcD4sOxy4BHiHQZJOC",
+      "username": "hop",
+      "id": 1
+    },
+    {
+      "email": "nguyendanhhieu162004@gmail.com",
+      "password": "$2a$10$kVQDOqPzNSLE1Ds/2vOu6.u71jYetuApJwFipNp0Sz9aYVhRY14dW",
+      "username": "hop",
+      "id": 2
+    },
+    {
+      "email": "hopndph39490@fpt.edu.vn",
+      "password": "$2a$10$SE7Mg1QBrNaveeX456ucQetWFAFhVYYFDOf2zMu8SWrXfzfBuiubW",
+      "username": "hop",
+      "id": 3
+    }
+  ]
+}
